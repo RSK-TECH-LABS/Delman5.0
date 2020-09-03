@@ -976,7 +976,7 @@ header .right_bt .btn {
  } */
 
 .make_appo .btn.white_btn {
-	margin: 2px;
+	margin: 1px;
 	font-weight: 600;
 	padding: 0 0px;
 	/* border : black 2.5px solid; */
@@ -1000,6 +1000,8 @@ a.btn.white_btn:hover
 }
 .book_text{
 	margin-left: 0px;
+	font-size: 18px;
+	text-shadow: 2px 2px blue;
 }
 
 .topbar-left {
@@ -3114,7 +3116,7 @@ span.skill {
 }
 
 .product_img img {
-	padding: 22px;
+	padding: 22px 0px;
 }
 
 .cleaning .product_img img {

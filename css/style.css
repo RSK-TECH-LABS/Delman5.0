@@ -765,7 +765,6 @@ hr.dottad_border {
 
 .main_heading {
 	position: relative;
-	margin-top: 25px;
 	margin-bottom: 25px;
 }
 
@@ -1620,7 +1619,7 @@ body.light_blue #full_slider.full_slider_inner {
 	-------------------------------------------------------------------*/
 
 .padding_layout_1 {
-	padding-top: 100px;
+	padding-top: 80px;
 	padding-bottom: 50px;
 }
 
